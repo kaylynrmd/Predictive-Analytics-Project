@@ -24,12 +24,11 @@ The project follows a full predictive analytics workflow:
 
 ## Repository Structure
 Predictive-Analytics-Project/
-│
-├── notebooks/ # Google Colab notebooks
-├── figures/ # Saved plots and visuals
-├── report/ # Final written report (PDF)
-├── README.md
-└── .gitignore
+- notebooks/ # Google Colab notebooks
+- figures/ # Saved plots and visuals
+- report/ # Final written report (PDF)
+- README.md
+- .gitignore
 
 ---
 
